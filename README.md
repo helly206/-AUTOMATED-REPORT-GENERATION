@@ -30,11 +30,9 @@ ChatBuddy is a simple rule-based chatbot built with Python and NLTK. It responds
 2. Type your message in the terminal.
 3. The bot replies based on detected intent (e.g., greeting, goodbye, thanks).
 
-*** How to Run***
+***How to Run***
 1. Install NLTK if not already installed:
-
- ***How to Run***
-1. Install NLTK: ```bash
+2. Install NLTK: ```bash
    pip install nltk
 
 ***What I Learned***
