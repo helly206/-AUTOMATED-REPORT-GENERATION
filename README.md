@@ -49,3 +49,5 @@ ChatBuddy is a simple rule-based chatbot built with Python and NLTK. It responds
 - Responds to small talk (e.g., "how are you?", "what are you doing?")
 
 ***OUTPUT***
+
+![Image](https://github.com/user-attachments/assets/e8b477a3-9846-4ee4-8b62-ab6da1d8327e)
