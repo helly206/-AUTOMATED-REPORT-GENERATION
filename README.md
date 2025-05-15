@@ -15,7 +15,7 @@ MENTOR: NEELA SANTOSH
 
 # ChatBuddy – A Simple Chatbot in Python
 
- ***About the Project***
+ ***About the Project*** 
 ChatBuddy is a simple rule-based chatbot built with Python and NLTK. It responds to greetings, questions about its name, and simple small talk using keyword-based intent detection. The chatbot runs in a terminal and demonstrates basic natural language processing.
 
 ***Tools and Libraries Used***
